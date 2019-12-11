@@ -13,5 +13,6 @@ This model uses pretrained frozen east text detection model. Findng the bound bo
 You can run below command in anaconda prompt in respective environment.
 #### python text_recognition.py --east frozen_east_text_detection.pb --image images/whitebg1.jpg
 ![](images/whitebg1.jpg)
+
 Below is the console output for given image. I have sorted the final list from left to right and top to bottom by overcomming few problems with bounding boxes.
 ![](images/ConsoleOutput.JPG)
