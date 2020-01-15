@@ -1,4 +1,4 @@
-# Text Recognition
+# Text Extraction from Images
 This model uses pretrained frozen east text detection model. Findng the bound boxes over the text in given image and getting the text from frozen east text detection model. Once all bounding boxes gets the text then the retrned text is organized in any particular use.
 
 ### Details - few things need to be done before to successfully run this model
